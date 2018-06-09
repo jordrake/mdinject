@@ -1,8 +1,9 @@
 {
   "name": "mdinject",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Inject other files into Markdown",
-  "main": "index.js",
+  "main": "src/mdinject.js",
+  "bin": "src/cli.js",
   "scripts": {
     "test": "xo && jest",
     "readme": "node ./src/cli README.template.md > README.md"
