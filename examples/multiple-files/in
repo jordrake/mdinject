@@ -1,0 +1,11 @@
+A
+
+`mdinject './1' '1'`
+
+B
+
+`mdinject './2' '2'`
+
+C
+
+`mdinject './3' '3'`

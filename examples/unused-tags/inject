@@ -1,0 +1,17 @@
+mdinject-start test1
+I
+am
+unused
+mdinject-end test1
+
+mdinject-start test2
+Include
+me!
+mdinject-end test2
+
+mdinject-start test3
+I
+am
+unused
+mdinject-end test3
+

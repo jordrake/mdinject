@@ -1,0 +1,26 @@
+{
+  "name": "mdinject",
+  "version": "0.1.0",
+  "description": "Inject files into Markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && jest",
+    "readme": "node ./src/cli README.template.md > README.md"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "detect-newline": "^2.1.0",
+    "minimist": "^1.2.0",
+    "string-replace-async": "^1.2.1"
+  },
+  "devDependencies": {
+    "glob": "^7.1.2",
+    "jest": "^23.1.0",
+    "xo": "^0.21.1"
+  },
+  "xo": {
+    "envs": ["jest", "node"],
+    "ignores": ["examples"]
+  }
+}

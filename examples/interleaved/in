@@ -1,0 +1,6 @@
+This
+mdinject './inject' 'is'
+a
+mdinject './inject' 'really'
+contrived
+mdinject './inject' 'example'

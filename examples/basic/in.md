@@ -1,0 +1,3 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et sodales purus, sit amet congue magna. Proin id venenatis ipsum, id posuere turpis. In sed scelerisque dolor, pharetra iaculis tortor. Nunc ac dui sed neque ultricies varius. Curabitur rhoncus blandit iaculis. Vestibulum eget ullamcorper lacus. Quisque quam sapien, condimentum sed orci a, ultricies ullamcorper diam.
+
+`mdinject './inject.txt' 'lorem'`
