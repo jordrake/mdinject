@@ -11,7 +11,7 @@ This command line utility lets you inject arbitrary files into your markdown (or
 
 ## Usage
 
-See the examples folder 
+See the examples folder.
 
 ### In Markdown (or other file)
 
@@ -19,7 +19,7 @@ See the examples folder
 
 Including the above will inject the **tag** section from **file**. Files are resolved relative to the markdown file. The entire line that this statement appears on will be overwritten so you can use whatever additional syntax you like e.g. comments.
 
-## In referenced files
+### In referenced files
 
 `mdinject-start <tag>`
 `mdinject-end <tag>`
