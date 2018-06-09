@@ -1,13 +1,13 @@
 {
   "name": "mdinject",
   "version": "0.1.0",
-  "description": "Inject files into Markdown",
+  "description": "Inject other files into Markdown",
   "main": "index.js",
   "scripts": {
     "test": "xo && jest",
     "readme": "node ./src/cli README.template.md > README.md"
   },
-  "author": "",
+  "author": "jordan@jdrake.co.uk",
   "license": "MIT",
   "dependencies": {
     "detect-newline": "^2.1.0",
