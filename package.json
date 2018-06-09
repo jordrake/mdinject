@@ -1,6 +1,6 @@
 {
   "name": "mdinject",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Inject other files into Markdown",
   "main": "src/mdinject.js",
   "bin": "src/cli.js",
