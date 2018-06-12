@@ -34,5 +34,5 @@ This will read the given file (typically a Markdown file) and replace the mdinje
 
 #### Options
 
-- `--eol=<string>` Provide an alternate EOL string, by default mdinject [detects the line ending](https://www.npmjs.com/package/detect-newlines) of the inputted file
+- `--eol=<string>` Provide an alternate EOL string, by default mdinject [detects the line endings](https://www.npmjs.com/package/detect-newline) of the inputted file
 - `--trim=<boolean>` Enable/disable the relative indentation trim functionality. Default is `true`. 
